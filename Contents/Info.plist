@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+    <key>CFBundleIdentifier</key>
+    <string>name.andrewschleifer.Launchbar.ViscosityController</string>
+
+    <key>CFBundleName</key>
+    <string>ViscosityController</string>
+
+    <key>CFBundleIconFile</key>
+    <string>com.viscosityvpn.Viscosity</string>
+
+    <key>LBAssociatedApplication</key>
+    <string>com.viscosityvpn.Viscosity</string>
+
+    <key>LBScripts</key>
+    <dict>
+        <key>LBDefaultScript</key>
+        <dict>
+            <key>LBScriptName</key>
+            <string>default.sh</string>
+
+            <key>LBReturnsResult</key>
+            <true />
+        </dict>
+    </dict>
+</dict>
+</plist>
+
